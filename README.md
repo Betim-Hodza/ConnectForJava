@@ -30,7 +30,7 @@ java connect4.java
 
 ## Authors
 
-Betim Hodza
-Bryan Lucio
-Erik Guerrero
-Louis Do
+* Betim Hodza
+* Bryan Lucio
+* Erik Guerrero
+* Louis Do
